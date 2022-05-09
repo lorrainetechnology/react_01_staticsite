@@ -5,3 +5,6 @@ npm install serve -g
 serve .
 or, serve single file, index.html instead of the whole folder.
 serve ./index.html
+
+3. Open the browser, and enter 
+https://localhost:3000/
